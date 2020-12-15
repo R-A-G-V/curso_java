@@ -24,7 +24,7 @@
         <div class="container mt-5">
             <div class="row">
                 <div class="col-sm">
-                    <nav class="navbar navbar-expand-lg navbar-light bg-light">
+                    <nav class="navbar navbar-expand-lg navbar-light bg-dark">
                         <div class="collapse navbar-collapse" id="navbarTogglerDemo02">
                             <ul class="navbar-nav mr-auto mt-2 mt-lg-0">
                                 <li class="nav-item">
@@ -47,7 +47,7 @@
                         </div>
                     </nav>
                                 <center>
-                                    <img src="icon/img/gention-de-ventas-cover.png"  width="600" height="600"/>
+                                    <img src="icon/img/gention-de-ventas-cover.png"  width="900" height="600"/>
                                 </center>
                                 
                 </div>
